@@ -1,0 +1,1 @@
+Today we learned how to use Intents to switch to a new activity. i.e. We can now switch to a new page!

@@ -1,0 +1,10 @@
+Today we learned how to set up Eclipse with the Android SDK and to create a Hello World Application
+(Windows)
+-Google "Android SDK"
+-Download the SDK
+-unzip
+-Start eclipse.exe
+-Choose workspace (where your projects will be stored)
+-File>New>Android Application Project
+-Run through a simple wizard
+-Congratulations, you now have a hello world program!

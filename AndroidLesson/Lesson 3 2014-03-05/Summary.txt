@@ -1,0 +1,2 @@
+Today we learned how to send information through an Intent to a new activity. We also learned how to use the 
+Google Maps API in our application
