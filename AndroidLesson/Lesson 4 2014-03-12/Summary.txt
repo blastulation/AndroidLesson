@@ -1,0 +1,2 @@
+Today we added a working Google map to our application. We made use of the Google Play Services Library, the Google API console
+and Fragmented Activities
